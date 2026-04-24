@@ -1,4 +1,5 @@
 Naasner
+<<<<<<< HEAD
 
 Andrej
 
@@ -12,3 +13,6 @@ Emir war hier
 
 Adrian Toll
 
+=======
+Noam
+>>>>>>> origin/branchNoam
