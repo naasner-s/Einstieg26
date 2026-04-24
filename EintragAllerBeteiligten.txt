@@ -1,7 +1,11 @@
 Naasner
 <<<<<<< HEAD
+<<<<<<< HEAD
 Noam
 =======
 
 Emir war hier
 >>>>>>> Emirhan
+=======
+Andrej Belinskij
+>>>>>>> branchBelinskij
