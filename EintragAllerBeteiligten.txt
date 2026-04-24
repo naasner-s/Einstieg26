@@ -1,11 +1,10 @@
 Naasner
 
-<<<<<<< HEAD
 Andrej Belinskij
 
 Naasner2
 
 Amr Mohamed
-=======
+
 Emir war hier
->>>>>>> origin/Emirhan
+
