@@ -1,14 +1,42 @@
 Naasner
+<<<<<<< HEAD
 
 Roman Tsoy
 
 Andrej
 
 Naasner2
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Noam
+=======
+
+Emir war hier
+>>>>>>> Emirhan
+=======
+Andrej Belinskij
+>>>>>>> branchBelinskij
+=======
+Dario
+>>>>>>> origin/branchDario
+=======
+Nejem
+>>>>>>> origin/branchNejem
+=======
+
+Naasner2
+>>>>>>> origin/naasner2
+=======
+>>>>>>> origin/branchNoam
 
 Andrej Belinskij
 
 Naasner2
+<<<<<<< HEAD
 
 Emir war hier
 
@@ -22,3 +50,12 @@ Nejem
 
 Dario
 
+=======
+<<<<<<< HEAD
+Nejem
+>>>>>>> origin/baranchOmar
+=======
+
+Amr Mohamed
+>>>>>>> origin/BranchAmr
+>>>>>>> origin/branchNoam
