@@ -1,6 +1,7 @@
 Naasner
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Noam
 =======
 
@@ -9,3 +10,6 @@ Emir war hier
 =======
 Andrej Belinskij
 >>>>>>> branchBelinskij
+=======
+Dario
+>>>>>>> origin/branchDario
