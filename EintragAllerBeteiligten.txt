@@ -1,2 +1,7 @@
 Naasner
+<<<<<<< HEAD
 Noam
+=======
+
+Emir war hier
+>>>>>>> Emirhan
